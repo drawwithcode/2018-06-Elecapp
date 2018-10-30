@@ -1,0 +1,46 @@
+[
+  {
+    "Province": "Newfoundland and Labrador",
+    "Maple farms": 0
+  },
+  {
+    "Province": "Prince Edward Island",
+    "Maple farms": 17
+  },
+  {
+    "Province": "Nova Scotia",
+    "Maple farms": 187
+  },
+  {
+    "Province": "New Brunswick",
+    "Maple farms": 212
+  },
+  {
+    "Province": "Quebec",
+    "Maple farms": 7.863
+  },
+  {
+    "Province": "Ontario",
+    "Maple farms": 3.003
+  },
+  {
+    "Province": "Manitoba",
+    "Maple farms": 81
+  },
+  {
+    "Province": "Saskatchewan",
+    "Maple farms": 29
+  },
+  {
+    "Province": "Alberta",
+    "Maple farms": 0
+  },
+  {
+    "Province": "British Columbia",
+    "Maple farms": 76
+  },
+  {
+    "Province": "Canada",
+    "Maple farms": 11.468
+  }
+]
